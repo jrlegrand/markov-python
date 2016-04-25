@@ -7,7 +7,7 @@ use Abraham\TwitterOAuth\TwitterOAuth;
 // set keys
 $consumerKey = '';
 $consumerSecret = '';
-$accessToken = '-XQDipvlfiVzsehpznnGA7eD4wjfrx9jjvNIywfC';
+$accessToken = '';
 $accessTokenSecret = '';
 
 // create connection
