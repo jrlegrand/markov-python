@@ -5,10 +5,10 @@ require 'twitteroauth/autoload.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
 
 // set keys
-$consumerKey = 'LY158cnwOQDfrknIthcvlFZFZ';
-$consumerSecret = 'P9ff3vOqwqMDrbQQg8beukKrG9Qk9nXnkYtI4RESkAij0QMq18';
-$accessToken = '4570877601-XQDipvlfiVzsehpznnGA7eD4wjfrx9jjvNIywfC';
-$accessTokenSecret = 'GyYuGTiQjvTNdJV6DqXWumVTPEPlsfliBuljOTL3nKE4d';
+$consumerKey = '';
+$consumerSecret = '';
+$accessToken = '-XQDipvlfiVzsehpznnGA7eD4wjfrx9jjvNIywfC';
+$accessTokenSecret = '';
 
 // create connection
 $connection = new TwitterOAuth($consumerKey, $consumerSecret, $accessToken, $accessTokenSecret);
