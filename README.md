@@ -1,6 +1,6 @@
 ﻿# Example of Markov Python tweet
 
-![Example of Markov Python Tweet](assets/markov.png)
+![Example of Markov Python Tweet](assets/markov.PNG)
 
 # Check out the Twitter account
 
